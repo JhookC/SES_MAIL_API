@@ -1,0 +1,16 @@
+{
+  "fromTitle": "BrandName",
+  "fromMail": "test@test.com",
+  "subjects": [
+    {
+      "type": "Welcome",
+      "title": "Welcome to BrandName",
+      "template": "welcome.html"
+    },
+    {
+      "type": "Notification",
+      "title": "Notification",
+      "template": "notification.html"
+    }
+  ]
+}
